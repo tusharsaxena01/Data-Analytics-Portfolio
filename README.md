@@ -8,6 +8,14 @@ Crafted a Customer Demographics Analysis Dashboard for a bank using Power BI. Ex
 # 2. Sales Performance Insights Dashboard with Power BI
 Crafted a dynamic sales performance report utilizing Power BI, showcasing key sales metrics, revenue trends, and product performance. Implemented interactive visualizations to aid stakeholders in making informed decisions and identifying growth opportunities.
 
+> Tasks Completed
+- How many employees and gender ration
+- How many employees are ready for pormotion according to thier perfomance 
+- Employees working years by count
+- Next retreachment and active workers 
+- Distance from office
+- Employee count as per job level
+
 Page-1
 ![Page1](https://github.com/tusharsaxena01/Data-Analytics-Portfolio/blob/main/Screenshots/Screenshot%202023-11-22%20195305.png)
 
