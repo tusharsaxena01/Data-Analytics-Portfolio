@@ -2,6 +2,15 @@
 # 1. Customer Demographics Analysis Dashboard for Banking Insights with Power BI
 Crafted a Customer Demographics Analysis Dashboard for a bank using Power BI. Examined customer data including geographic distribution, gender, marital status, educational qualifications, and job types. The insights provided informed targeted marketing strategies and personalized services.
 
+> Tasks Completed
+- Total Counts of Customer
+- Total Balance from Customers
+- Count of total houseloans issued
+- Highlight of States in US
+- Representation of different job classifications
+- Representation of genders
+- Representation of Marital status of customers
+
 ![Page1](https://github.com/tusharsaxena01/Data-Analytics-Portfolio/blob/main/Screenshots/Screenshot%202023-11-22%20195236.png)
 
 
@@ -29,6 +38,12 @@ Page-3
 
 # 3. Strategic HR Insights Dashboard using Power BI
 Developed an impactful HR analysis dashboard using Power BI, offering real-time insights into key metrics such as employee performance and retention. Enhanced data visualization for improved decision-making.
+
+> Tasks Completed
+- Total Sales
+- Total Profit
+- Order Quantity
+- Total Number of Products
 
 Page-1
 ![Page1](https://github.com/tusharsaxena01/Data-Analytics-Portfolio/blob/main/Screenshots/Screenshot%202023-11-22%20195351.png)
