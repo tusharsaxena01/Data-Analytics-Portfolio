@@ -27,8 +27,3 @@ Page-1
 
 Page-2
 ![Page2](https://github.com/tusharsaxena01/Data-Analytics-Portfolio/blob/main/Screenshots/Screenshot%202023-11-22%20195448.png)
-Page-2
-![Page2](https://github.com/pandeyvishal28/Data-Analytics-Portfolio/assets/91950714/31a06c37-65a1-42d8-b7fa-fbb4320013c3)
-
-Page-3
-![Page3](https://github.com/pandeyvishal28/Data-Analytics-Portfolio/assets/91950714/0bdec5bb-c6c5-4537-afd1-1fd55f5acd37)
